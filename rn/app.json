@@ -1,0 +1,12 @@
+{
+  "name": "slate-rn",
+  "displayName": "slate-rn",
+  "expo": {
+    "name": "slate-rn",
+    "slug": "slate-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
