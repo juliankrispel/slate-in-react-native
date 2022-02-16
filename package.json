@@ -1,0 +1,15 @@
+{
+  "name": "slate-and-react-native",
+  "version": "0.0.1",
+  "description": "Very basic example of how slate can be integrated with react-native",
+  "main": ".",
+  "author": "Julian Krispel-Samsel <julian@jkrsp.com>",
+  "license": "MIT",
+  "private": false,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "yarn workspaces run start"
+  }
+}
